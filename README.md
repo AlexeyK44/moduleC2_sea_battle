@@ -1,1 +1,1 @@
-# module_C2-sea_battle-
+# moduleC2_sea_battle
